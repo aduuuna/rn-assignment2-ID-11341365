@@ -1,4 +1,4 @@
-STUDENT ID: 11341365
+STUDENT ID: 11341365.
 We were asked to create a React Native template project using Expo CLI to make a mobile app. For this assignment, we needed to:
 
 1. Change the background color of the view component.
