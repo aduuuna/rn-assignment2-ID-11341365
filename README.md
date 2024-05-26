@@ -7,3 +7,4 @@ We were asked to create a React Native template project using Expo CLI to make a
 4. Make our names in the text bold.
 Below is a screenshot of my application.
 
+https://github.com/aduuuna/rn-assignment2-ID-11341365/blob/main/MyApp/assets/EXPO%20CLI.jpg
